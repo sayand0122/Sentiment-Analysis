@@ -3,7 +3,7 @@
 It's an R code-snippet that give a graphical view and a word-cloud of the sentimental words for a specific books
 
 ## Pre-requisites:-
-packages to be installed:-
+Packages to be installed:-
 1. tidyr
 2. ggplot2
 3. wordcloud
