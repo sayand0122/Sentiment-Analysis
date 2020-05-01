@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-It's an R code-snippet that give a graphical view and a word-cloud of the sentimental words for a spPreecific books
+It's an R code-snippet that give a graphical view and a word-cloud of the sentimental words for a specific books
 
 ## Pre-requisites:-
 packages to be installed:-
