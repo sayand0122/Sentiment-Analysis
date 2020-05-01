@@ -2,7 +2,7 @@
 
 It's an R code-snippet that give a graphical view and a word-cloud of the sentimental words for a spPreecific books
 
-##Pre-requisites:-
+## Pre-requisites:-
 packages to be installed:-
 1. tidyr
 2. ggplot2
